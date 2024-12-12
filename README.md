@@ -9,7 +9,7 @@ I began writing code two years ago while I was teaching it, and continued to chi
 
 The latter, after an enlightening three months, is the case. 
 
-I like to think I would have gotten here eventurally, but I think the reality is that I needed a little direction. 
+I like to think I would have gotten here on my own, but realistically, a little direction is what I needed. 
 
 Now, I can create full-stack web applications using JS, React, Node, SQL, and restAPI's. 
 
@@ -20,6 +20,7 @@ This is your window into my house, so if you wouldn't mind, please be harsh on t
 ### Connect with me at: 
 
 [My Email](mailto:adamdebrouwere@hotmail.com)
+
 [My LinkedIn](https://www.linkedin.com/in/adamdebrouwere)
 
 <!--
