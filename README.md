@@ -19,7 +19,7 @@ This is your window into my house, so if you wouldn't mind, please be harsh on t
 
 ### Connect with me at: 
 
-[My Email](sendto:adamdebrouwere@hotmail.com)
+[My Email](mailto:adamdebrouwere@hotmail.com)
 [My LinkedIn](https://www.linkedin.com/in/adamdebrouwere)
 
 <!--
