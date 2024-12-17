@@ -9,13 +9,13 @@ I began writing code two years ago while I was teaching it, and continued to chi
 
 The latter, after an enlightening three months, is the case. 
 
-I like to think I would have gotten here on my own, but realistically, a little direction is what I needed (shout out to [Brainstation](https://www.brainstation.io)) 
+I like to think I would have gotten here on my own, but realistically, a little direction is what I needed. Shout out to [Brainstation](https://www.brainstation.io). 
 
 Now, I can create full-stack web applications using JS, React, Node, SQL, SCSS, and restAPI's. 
 
-[Booktale](https://booktale.netlify.app) is my first fully deployed full-stack web application wherein a user can create and contribute to a comment section linked to a unique QR code. My inspiration came from books on hostle bookshelves. I wonder where they had once been, and where they might go. This project was my capstone for the boot camp I just completed and it acheives it's purpose, however, I can see much more in the future for [Booktale](https://booktale.netlify.app). 
+[Booktale](https://booktale.netlify.app) is my first fully deployed full-stack web application wherein a user can create and contribute to a comment section linked to a unique QR code. My inspiration came from books on hostle bookshelves. I wondered about thier past lives, and where they might go. This project was my capstone for the boot camp I just completed and it acheives it's purpose, however, I can see much more in the future for [Booktale](https://booktale.netlify.app). 
 
-Welcome to my pad. Please be harsh on the decor. I only want to get better. 
+Welcome to my pad. Be harsh on the decor. I only want to get better. 
 
 ### Connect with me at: 
 
