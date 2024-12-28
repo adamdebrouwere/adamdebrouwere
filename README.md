@@ -1,7 +1,7 @@
 # Adam's Pad
 
 ### About me
-Hello fellow code writers, 
+Hello fellow code scribes, 
 
 I hope you are cherishing the adventure. As I look back, albiet not that long, I see so much growth.
 
