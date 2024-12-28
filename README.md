@@ -1,6 +1,5 @@
 # Adam's Pad
 
-### About me
 Hello fellow code scribes, 
 
 I hope you are enjoying the adventure. As I look back, albiet not that long, I see so much to be proud of. 
