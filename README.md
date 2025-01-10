@@ -12,9 +12,9 @@ I like to believe I would have gotten here on my own, but realistically, a littl
 
 I can now create full-stack web applications using JS, React, Node, SQL, SCSS, and restAPI's. 
 
-[Booktale](https://booktale.netlify.app) is my first fully deployed full-stack web application wherein a user can create and contribute to a comment section linked to a unique QR code. My inspiration came from used books on hostle bookshelves. I wondered about thier past lives, and where they might go. This project was my capstone for the boot camp I just completed and it acheives it's purpose, however, I can see much more in the future for [Booktale](https://booktale.netlify.app). 
+[Booktale](https://booktale.netlify.app) is my first fully deployed full-stack web application wherein a user can create and contribute to a comment section linked to a unique QR code. My inspiration came from used books on hostle bookshelves. I wondered about thier past lives, and where they might go. This project was my capstone for the boot camp I just completed and it acheives it's purpose, however, I can see much more in the future as I continue to develop [Booktale](https://booktale.netlify.app). 
 
-Right now, I am working with PHP for email servers, practicing with Tailwind and Typescript, and contributing to a chatbot project using Python and Django. 
+Right now, I am working with PHP for email servers, practicing with Tailwind and Typescript as I develop my portfolio website, and contributing to an AI chatbot project using Python and Django, and openAI, as well as updates to Booktale. 
 
 Welcome to my pad. Be harsh on the decor. I only want to get better. 
 
