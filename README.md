@@ -14,7 +14,7 @@ I can now create full-stack web applications using JS, React, Node, SQL, SCSS, a
 
 [Booktale](https://booktale.netlify.app) is my first fully deployed full-stack web application wherein a user can create and contribute to a comment section linked to a unique QR code. My inspiration came from used books on hostle bookshelves. I wondered about thier past lives, and where they might fly. While it acheives it's purpose, I can see much more in the future for [Booktale](https://booktale.netlify.app). 
 
-Along with improving [Booktale](https://booktale.netlify.app), I am working with PHP and Express for email servers, building a portfolio website with Tailwind and Typescript, and I contributing to an AI chatbot startup using React, Python, Django, and OpenAI. You can find an information request form site I created and [deployed](ainterestedinbenefits.netlify.app) using TypeScript in React and Node with Express. 
+Along with improving [Booktale](https://booktale.netlify.app), I am working with PHP and Express for email servers, building a portfolio website with Tailwind and Typescript, and I contributing to an AI chatbot startup using React, Python, Django, and OpenAI. [Here](ainterestedinbenefits.netlify.app) is an information form I created for this startup using TypeScript in React and Node. 
 
 Welcome to my pad. Be harsh on the decor. I only want to get better. 
 
