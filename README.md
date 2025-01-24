@@ -10,7 +10,7 @@ The latter, after an enlightening three months, is the case.
 
 I like to believe I would have gotten here on my own, but realistically, a little direction was what I needed. Shout out to [Brainstation](https://www.brainstation.io). 
 
-I can now create full-stack web applications using JS, React, Node, SQL, SCSS, and REST API's. 
+I can now create full-stack web applications using TS, React, Node, SQL, and REST API's. 
 
 [Booktale](https://booktale.netlify.app) is my first fully deployed full-stack web application wherein a user can create and contribute to a comment section linked to a unique QR code. My inspiration came from used books on hostle bookshelves. I wondered about thier past lives, and where they might fly. While it acheives it's purpose, I can see much more in the future for [Booktale](https://booktale.netlify.app). 
 
