@@ -14,7 +14,7 @@ I can now create full-stack web applications using TS, React, Node, SQL, and RES
 
 [Booktale](https://booktale.netlify.app) is my first fully deployed full-stack web application wherein a user can create and contribute to a comment section linked to a unique QR code. My inspiration came from used books on hostle bookshelves. I wondered about thier past lives, and where they might fly. While it acheives it's purpose, I can see much more in the future for [Booktale](https://booktale.netlify.app). 
 
-Along with improving [Booktale](https://booktale.netlify.app), I am building a portfolio website with Tailwind and Typescript, and I am partnered on an AI chatbot startup using TypeScript React, Python Django, and OpenAI. Check it out [here](https://www.benefitsai.ca).
+Along with improving [Booktale](https://booktale.netlify.app), I am building a portfolio website with Tailwind and Typescript, and I am partnered on an AI chatbot startup using TypeScript React, Python Django, and OpenAI. Check it out [here](https://www.benefitsai.ca). As a freelancer, I am developing an e-commerce Next.js-WordPress build called [carwebdistribution.ca](https://www.carwebdistribution.ca). 
 
 Welcome to my pad. Be harsh on the decor. I only want to get better. 
 
